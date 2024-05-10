@@ -1,0 +1,652 @@
+/* Frame 1 */
+
+position: relative;
+width: 3942px;
+height: 2432px;
+
+
+
+/* Inicial apresentação */
+
+position: absolute;
+width: 1900px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* limpeza 2 */
+
+position: absolute;
+visibility: hidden;
+width: 1920px;
+height: 1080px;
+left: calc(50% - 1920px/2 - 0px);
+top: calc(50% - 1080px/2);
+
+background: url(limpeza.jpg);
+
+
+/* limpeza 3 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: calc(50% - 1920px/2 - 0px);
+top: calc(50% - 1080px/2);
+
+background: url(materia-13-foto-1.png);
+
+
+/* limpeza 1 */
+
+position: absolute;
+width: 1227px;
+height: 961px;
+left: calc(50% - 1227px/2 - 0.5px);
+top: calc(50% - 961px/2 - 0.5px);
+
+background: url(daysy-removebg-preview.png);
+
+
+/* cadastro */
+
+position: absolute;
+width: 1900px;
+height: 1080px;
+left: 2042px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* limpeza 2 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: calc(50% - 1920px/2 - 6px);
+top: calc(50% - 1080px/2 - 1px);
+
+background: url(limpeza.jpg);
+
+
+/* Rectangle 1379 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 690px;
+height: 690px;
+left: calc(50% - 690px/2 - 4px);
+top: calc(50% - 690px/2 + 145px);
+
+background: rgba(12, 192, 223, 0.5);
+backdrop-filter: blur(12.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 40px;
+
+
+/* Group 2254 */
+
+position: absolute;
+width: 503px;
+height: 606px;
+left: 708px;
+top: 378px;
+
+
+
+/* Faça seu login */
+
+position: absolute;
+width: 211px;
+height: 38px;
+left: calc(50% - 211px/2 + 10.5px);
+top: calc(50% - 38px/2 - 143px);
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* ou continue com */
+
+position: absolute;
+width: 110px;
+height: 17px;
+left: calc(50% - 110px/2 + 11px);
+top: calc(50% - 17px/2 + 308.5px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Não tem conta ainda? */
+
+position: absolute;
+width: 147px;
+height: 17px;
+left: calc(50% - 147px/2 - 80.5px);
+top: calc(50% - 17px/2 + 435.5px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Registre-se grátis */
+
+position: absolute;
+width: 116px;
+height: 17px;
+left: calc(50% - 116px/2 + 87px);
+top: calc(50% - 17px/2 + 435.5px);
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1383 */
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2 + 11px);
+top: calc(50% - 50px/2 + 243px);
+
+background: #CB6CE6;
+border-radius: 10px;
+
+
+/* Entre */
+
+position: absolute;
+width: 49px;
+height: 24px;
+left: calc(50% - 49px/2 + 3.5px);
+top: calc(50% - 24px/2 + 243px);
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 2253 */
+
+position: absolute;
+width: 150px;
+height: 50px;
+left: 711px;
+top: 885px;
+
+
+
+/* Rectangle 1384 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 150px;
+height: 50px;
+left: calc(50% - 150px/2 - 164px);
+top: calc(50% - 50px/2 + 370px);
+
+background: #FFFFFF;
+border: 1px solid #BCBEC0;
+border-radius: 10px;
+
+
+/* flat-color-icons:google */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2 - 164px);
+top: calc(50% - 24px/2 + 370px);
+
+border-radius: 40px;
+
+
+/* Group 2212 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFC107;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.76%;
+right: 15.96%;
+top: 0%;
+bottom: 61.23%;
+
+background: #FF3D00;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.49%;
+right: 16.48%;
+top: 60.14%;
+bottom: 0%;
+
+background: #4CAF50;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 0%;
+top: 40%;
+bottom: 12.93%;
+
+background: #1976D2;
+
+
+/* Group 2250 */
+
+position: absolute;
+width: 500px;
+height: 213px;
+left: 708px;
+top: 503px;
+
+
+
+/* Rectangle 1381 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2 + 8px);
+top: calc(50% - 50px/2 + 14px);
+
+background: #FFFFFF;
+border: 1px solid #BCBEC0;
+border-radius: 10px;
+
+
+/* Telefone */
+
+position: absolute;
+width: 72px;
+height: 21px;
+left: calc(50% - 72px/2 - 206px);
+top: calc(50% - 21px/2 - 26.5px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1382 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2 + 8px);
+top: calc(50% - 50px/2 + 120px);
+
+background: #FFFFFF;
+border: 1px solid #BCBEC0;
+border-radius: 10px;
+
+
+/* Senha */
+
+position: absolute;
+width: 53px;
+height: 21px;
+left: calc(50% - 53px/2 - 215.5px);
+top: calc(50% - 21px/2 + 79.5px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* +55 DDD telefone */
+
+position: absolute;
+width: 117px;
+height: 17px;
+left: calc(50% - 117px/2 - 160.5px);
+top: calc(50% - 17px/2 + 14.5px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #BCBEC0;
+
+
+
+/* Password */
+
+position: absolute;
+width: 64px;
+height: 17px;
+left: calc(50% - 64px/2 - 187px);
+top: calc(50% - 17px/2 + 120.5px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #BCBEC0;
+
+
+
+/* esqueceu sua senha? */
+
+position: absolute;
+width: 120px;
+height: 14px;
+left: calc(50% - 120px/2 - 182px);
+top: calc(50% - 14px/2 + 169px);
+
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* clarity:eye-hide-line */
+
+position: absolute;
+visibility: hidden;
+width: 16px;
+height: 16px;
+left: calc(50% - 16px/2 + 229px);
+top: calc(50% - 16px/2 + 120px);
+
+border-radius: 40px;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.53%;
+right: 28.83%;
+top: 30.94%;
+bottom: 43.33%;
+
+background: #C7D2D6;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.75%;
+right: 3.95%;
+top: 20.92%;
+bottom: 32%;
+
+background: #C7D2D6;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.61%;
+right: 9.5%;
+top: 11.92%;
+bottom: 11.69%;
+
+background: #C7D2D6;
+
+
+/* Group 2251 */
+
+position: absolute;
+width: 150px;
+height: 50px;
+left: 1061px;
+top: 895px;
+
+
+
+/* Rectangle 1386 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 150px;
+height: 50px;
+left: calc(50% - 150px/2 + 186px);
+top: calc(50% - 50px/2 + 380px);
+
+background: #FFFFFF;
+border: 1px solid #BCBEC0;
+border-radius: 10px;
+
+
+/* bi:facebook */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2 + 186px);
+top: calc(50% - 24px/2 + 380px);
+
+border-radius: 40px;
+
+
+/* Group */
+
+position: absolute;
+left: -0.01%;
+right: 0%;
+top: -0.01%;
+bottom: -0.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.01%;
+right: 0%;
+top: -0.01%;
+bottom: -0.01%;
+
+background: #059BE5;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 281px;
+height: 280px;
+left: 804px;
+top: 16.5px;
+
+background: rgba(255, 255, 255, 0.5);
+
+
+/* limpeza 3 */
+
+position: absolute;
+width: 376px;
+height: 296px;
+left: calc(50% - 376px/2 - 4px);
+top: calc(50% - 296px/2 - 380px);
+
+background: url(daysy-removebg-preview.png);
+
+
+/* quem somos */
+
+position: absolute;
+width: 1900px;
+height: 1080px;
+left: 2042px;
+top: 1352px;
+
+background: #FFFFFF;
+
+
+/* limpeza 3 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: calc(50% - 1920px/2 - 0px);
+top: calc(50% - 1080px/2);
+
+background: url(shutterstock_654200113.jpg);
+
+
+/* Rectangle 1379 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1363px;
+height: 690px;
+left: calc(50% - 1363px/2 - 2.5px);
+top: calc(50% - 690px/2);
+
+background: rgba(12, 192, 223, 0.25);
+backdrop-filter: blur(12.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 40px;
+
+
+/* Somos uma empresa de serviços de limpeza dedicada à excelência, confiança e qualidade. Nossa equipe altamente treinada oferece soluções personalizadas para espaços comerciais, comprometendo-se com a sustentabilidade e proporcionando ambientes impecáveis que inspiram produtividade e bem-estar. */
+
+position: absolute;
+width: 1116px;
+height: 542px;
+left: calc(50% - 1116px/2);
+top: 296px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* QUEM SOMOS */
+
+position: absolute;
+width: 766px;
+height: 314px;
+left: 582px;
+top: 129px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 120px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
